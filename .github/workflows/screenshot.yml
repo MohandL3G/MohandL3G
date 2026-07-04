@@ -20,6 +20,13 @@ jobs:
           pip install playwright
           playwright install chromium
 
+      - name: Install CaesiumCLT
+        run: |
+          curl -sL "https://github.com/Lymphatus/caesium-clt/releases/download/v1.3.0/caesiumclt-v1.3.0-x86_64-unknown-linux-musl.tar.gz" -o /tmp/caesiumclt.tar.gz
+          tar xzf /tmp/caesiumclt.tar.gz -C /tmp
+          cp /tmp/caesiumclt-*/caesiumclt /usr/local/bin/
+          chmod +x /usr/local/bin/caesiumclt
+
       - name: Generate screenshot
         run: python scripts/perfect-games-screenshot.py
 

@@ -1,8 +1,12 @@
 from playwright.sync_api import sync_playwright
+import subprocess, os
 
 URL = "https://ach.mohandl3g.ly/"
 OUTPUT = "assets/perfect-games.png"
 SELECTOR = "div.flex.flex-wrap.justify-center.gap-5.py-5"
+
+CAESIUM = "caesiumclt"
+QUALITY = "85"
 
 with sync_playwright() as p:
     browser = p.chromium.launch()
@@ -34,3 +38,7 @@ with sync_playwright() as p:
         }
     )
     browser.close()
+
+subprocess.run([
+    CAESIUM, "-q", QUALITY, "--same-folder-as-input", "--quiet", OUTPUT
+], check=True)
