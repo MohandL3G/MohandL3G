@@ -1,5 +1,8 @@
 name: Update Perfect Games Screenshot
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 3 * * *'
