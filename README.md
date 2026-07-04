@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<span style="font-size: 70px;">Welcome my</span> ![:Count](https://counter.mohandl3g.ly/@:MohandL3G)<span style="font-size: 70px;">th visitor.</span>
+**Welcome my** ![:Count](https://counter.mohandl3g.ly/@:MohandL3G)**th visitor.**
 
 ### 👨‍💻 About Me
 
@@ -21,8 +21,6 @@ Just a guy who loves gaming 🎮
 
 ---
 
-<a href="https://ach.mohandl3g.ly/">
-  <span style="font-size: 55px;">🎖️ %100 Steam Perfect Games 👾</span>
-</a>
+[**🎖️ %100 Steam Perfect Games 👾**](https://ach.mohandl3g.ly/)
 
 [<img src="assets/perfect-games.png" alt="PC Achievements" width="850">](https://ach.mohandl3g.ly/)
