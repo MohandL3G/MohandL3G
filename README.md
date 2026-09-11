@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Welcome my** ![:Count](https://moecountermohandl3g.eu1.netbird.services/@:MohandL3G)**th visitor.**
+**Welcome my** ![:Count](https://moe.mohandl3g.ly/@:MohandL3G)**th visitor.**
 
 ### 👨‍💻 About Me
 
