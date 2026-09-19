@@ -17,4 +17,4 @@ Just a guy who loves gaming 🎮
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohandL3G&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohandL3G&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
