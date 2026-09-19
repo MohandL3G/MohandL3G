@@ -18,9 +18,3 @@ Just a guy who loves gaming 🎮
 ---
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohandL3G&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-[**🎖️ %100 Steam Perfect Games 👾**](https://ach.mohandl3g.ly/)
-
-[<img src="assets/perfect-games.png" alt="PC Achievements" width="850">](https://ach.mohandl3g.ly/)
