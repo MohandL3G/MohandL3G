@@ -19,5 +19,8 @@ Just a guy who loves gaming 🎮
 
 <img width="2400" height="1760" alt="MohandL3G Palworld" src="https://github.com/user-attachments/assets/66e28f3a-eba6-4c4f-8e9e-c036f167606a" />
 
-<img alt="wave animation" src="Images/wave_animation_dark.svg#gh-dark-mode-only">
-<img alt="wave animation" src="Images/wave_animation_light.svg#gh-light-mode-only">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/wave_animation_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/wave_animation_light.svg">
+  <img alt="wave animation" src="images/wave_animation_light.svg" width="100%">
+</picture>
