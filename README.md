@@ -17,6 +17,8 @@ Just a guy who loves gaming 🎮
 
 ---
 
+<img width="100%" alt="MohandL3G Achievements Passport" src="images/achievements_passport.svg" />
+
 <img width="2400" height="1760" alt="MohandL3G Palworld" src="https://github.com/user-attachments/assets/66e28f3a-eba6-4c4f-8e9e-c036f167606a" />
 
 <picture>
